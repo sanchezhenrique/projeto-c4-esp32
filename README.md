@@ -66,7 +66,7 @@ Acesse o simulador Wokwi pelo [LINK](https://wokwi.com/projects/4683008481186734
 
 ## 📸 5. Imagens do Projeto
 
-Aqui estão os registros do circuito montado na Protoboard.
+Aqui estão os registros do circuito montado na Protoboard e no Simulador Wokwi.
 
 ![Circuto](Imagens/fisico.jpeg)
 
