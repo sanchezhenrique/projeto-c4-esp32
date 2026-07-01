@@ -77,3 +77,12 @@ Aqui estão os registros do circuito montado na Protoboard e no Simulador Wokwi.
 ## 🎥 6. Demonstração e Explicação em Vídeo
 
 ▶️ **[ASSISTIR VÍDEO DE DEMONSTRAÇÃO (YOUTUBE)](https://youtu.be/QQp_lZkyC50)**
+
+---
+
+## Integrantes
+
+- Henrique Alcici Sanchez - 17895852
+- João Matheus Frota Girão - 17899582
+- João Pedro Cremasco Luiz — 17899853
+- Thomas Riki Hashima — 15580336
