@@ -82,7 +82,7 @@ Aqui estão os registros do circuito montado na Protoboard e no Simulador Wokwi.
 
 ## Integrantes
 
-- Henrique Alcici Sanchez - 17895852
-- João Matheus Frota Girão - 17899582
-- João Pedro Cremasco Luiz — 17899853
-- Thomas Riki Hashima — 15580336
+- Henrique Alcici Sanchez
+- João Matheus Frota Girão
+- João Pedro Cremasco Luiz
+- Thomas Riki Hashima
