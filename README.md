@@ -8,7 +8,7 @@ Este projeto é um minigame interativo inspirado na mecânica de desarme de bomb
 
 O código foi desenvolvido em **MicroPython** utilizando o VS Code e roda diretamente no microcontrolador ESP32.
 
-### Principais Recursos do Códhttps://wokwi.com/projects/468300848118673409igo:
+### Principais Recursos do Código:
 
 - **Lógica Não-Bloqueante (`time.ticks_ms`):** O loop principal gerencia o tempo restante, a taxa de atualização do display e a frequência dos bips do buzzer de forma paralela. Isso impede que o som trave a contagem do relógio.
 - **Sistema de Estágios Dinâmicos:** O jogador precisa passar por 3 fases consecutivas. A cada acerto, um novo número hexadecimal randômico (entre `1` e `F`) é gerado pelo display.
